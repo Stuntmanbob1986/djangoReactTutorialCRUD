@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=c-QsfbznSXI
 
 Stand 2024.04.15:
 min 25
+
+Bei API: Für jedes Model wird ein Serializer erstellt
