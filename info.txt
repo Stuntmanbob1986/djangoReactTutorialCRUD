@@ -5,6 +5,8 @@ Stand 2024.04.15:
 min 25
 
 Bei API: Für jedes Model wird ein Serializer erstellt
+Frontend/Api.js: Immer wenn Environment-Variable genutzt werden soll, braucht man VITE
+import.meta.env.VITE_API_URL importiert Environment-Variable aus .env
 
 Stand 2024.04.16:
 min 50
