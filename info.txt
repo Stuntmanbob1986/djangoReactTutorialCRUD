@@ -10,3 +10,12 @@ import.meta.env.VITE_API_URL importiert Environment-Variable aus .env
 
 Stand 2024.04.16:
 min 50
+
+Stand 2024.04.16:
+min 59
+
+Stand 2024.04.18:
+1h, 8min
+
+Stand 2024.04.20:
+1h, 25min
