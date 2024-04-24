@@ -23,6 +23,8 @@ Stand 2024.04.20:
 Stand 2024.04.21:
 1h, 43min
 
+2024.04.22: 1h, 51min
+
 bsp user:
 cg2
 test123
